@@ -1,0 +1,7 @@
+Explanation:
+API Call:
+The script makes an API call to OpenWeatherMap using the provided city name and API key to retrieve weather data in metric units (Celsius).
+Data Display:
+Extracts and displays key weather information: temperature, description, humidity, and wind speed.
+Error Handling:
+Handles errors related to network issues and invalid city names, ensuring the application doesn’t crash unexpectedly.
